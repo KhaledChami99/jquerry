@@ -1,0 +1,25 @@
+//[
+    // {
+    //     "name" : "lebanon",
+    //     "currency" : "LBP"
+    // },
+    // {
+    //     "name" : "saudi",
+    //     "currency" : "SAR"
+    // }
+
+//]
+{
+    "countries_name" :[
+        {
+            "name":"lebanon",
+            "currency": "LBP"
+        },
+        {
+            "name" : "saudi",
+            "currency": "SAR" 
+        }
+
+    ]
+
+}
